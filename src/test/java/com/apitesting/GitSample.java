@@ -10,5 +10,17 @@ public class GitSample {
 	public void gitTask03() {
 		System.out.println("GIT..........");
 	}
+	public void gitTask04() {
+System.out.println("Tester 1 Branch");
+	}
+	public void gitTask05() {
+		System.out.println("Tester 1 Branch");
+
+	}
+	public void gitTask06() {
+		System.out.println("Tester 1 Branch");
+
+	}
+
 
 }
